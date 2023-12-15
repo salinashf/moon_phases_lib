@@ -1,2 +1,2 @@
-# moon_phases_lib
-Calcula las fases de la luna 
+-# Moon Phases Lib
+-Calcula las fases de la luna 
